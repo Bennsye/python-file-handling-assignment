@@ -37,7 +37,7 @@ Other unexpected errors.
 
 📂 Project Files
 
-file_handling_assignment.py → Main Python script (fully documented with comments).
+file_handling_assignment.py → Main Python script.
 
 input.txt → Sample input file used for testing.
 
